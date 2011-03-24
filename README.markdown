@@ -7,7 +7,7 @@ Description
 A very simple hardware project to broadcast your voice or other sound 
 input on an FM station of your choosing. Uses the PIC 16F688 as the 
 main microcontroller. A Codeproject article located at 
-http://www.codeproject.com/KB/system/fmbomb.aspx talks about the 
+[http://www.codeproject.com/KB/system/fmbomb.aspx](http://www.codeproject.com/KB/system/fmbomb.aspx) talks about the 
 creation of the project.
 
 Technical Points
@@ -35,5 +35,5 @@ Feedback or Questions
 
 Send feedback or ask questions in the form of:
 
-* comments on my blog. http://embeddedfun.blogspot.com
+* comments on [my blog.](http://embeddedfun.blogspot.com)
 * email at sidwarkd@hardlysoftware.com
