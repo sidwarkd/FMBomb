@@ -1,5 +1,11 @@
 *.dep
 *.mcs
 *.mcw
+*.map
+*.cof
+*.epf
+*.err
 /bin/*
 !/bin/fmbomb.hex
+/make/build
+/make/dist
